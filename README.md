@@ -40,7 +40,7 @@ The Online Examination System (OES) is a web-based platform that enables student
     <li><b>AJAX Integration:</b> Smooth data loading without page reloads.</li>
 </ul>
 
-<h2>Technologies Used<h2>
+<h2>Technologies Used</h2>
 
 <ul>
     <li><b>Backend:</b> Laravel (PHP Framework)</li>
