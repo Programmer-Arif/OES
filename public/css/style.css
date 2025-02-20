@@ -1,0 +1,63 @@
+nav {
+    margin: 30px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav div {
+    display: flex;
+}
+
+/* nav h3 {
+    line-height: 70px;
+    color: rgb(255, 131, 16);
+} */
+
+#logobox {
+    display: inline-block;
+    width: 250px;
+    margin-right: 25px;
+    padding: 2px;
+}
+
+#logobox img {
+    width: 100%;
+}
+
+nav button {
+    width: 100px;
+    height: 40px;
+    /* margin: auto; */
+}
+
+#registerbutton{
+    margin-right: 25px;
+}
+
+#banner {
+    margin: 100px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#bannertext {
+
+}
+
+#bannertext h5 {
+    color: gray;
+}
+
+#bannertext button  {
+    width: 250px;
+    margin-top: 100px;
+}
+
+#bannerimg {
+    width: 500px;
+    transform: translateY(-70px);
+}
+
+#bannerimg img {
+    width: 100%;
+}

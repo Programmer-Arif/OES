@@ -1,0 +1,9 @@
+Login Credentials:
+
+User:
+arif@gmail.com
+pass:123456
+
+Admin:
+admin@gmail.com
+Pass:qwerty
